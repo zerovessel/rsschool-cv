@@ -1,8 +1,8 @@
 # Vyacheslav Petrov
 # Contacts: 
-* e-mail: maybemeryep@gmai.com
-* github: zerovessel
-* telegram: @merandagony
+* **E-mail:** maybemeryep@gmail.com
+* **Github:** zerovessel
+* **Telegram:** @merandagony
 # About Me:
 I'm a freelancer, mainly doing copywriting. I have experience in web design and server development. My strengths are meticulousness and communication skills. 
 # Skills:
