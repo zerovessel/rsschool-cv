@@ -10,7 +10,14 @@ I'm a freelancer, mainly doing copywriting. I have experience in web design and 
 * CSS/SASS
 * Adove Photoshop, Illustrator
 # Code Example:
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 ```
+# Courses:
+* HTMl Academy (Completed)
+* RS Schools Course (in progress)
+# Languages: 
+* Russian (Native)
+* English (Upper-Intermediate)
