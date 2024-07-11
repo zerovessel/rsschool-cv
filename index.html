@@ -1,13 +1,116 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>cv</title>
-    <link rel="stylesheet" href="style.css" />
+<html class="page" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
     <link rel="icon" href="assets/cat moon.ico" />
-    
-</head>
-<body>
-</body>
+    <title>CV</title>
+  </head>
+  <body class="body">
+    <header class="header">
+      <div class="container">
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item">
+              <a href="#contact" class="nav-link">Contact</a>
+            </li>
+            <li class="nav-item">
+              <a href="#summary" class="nav-link">Summary</a>
+            </li>
+            <li class="nav-item">
+              <a href="#skills" class="nav-link">Skills</a>
+            </li>
+            <li class="nav-item">
+              <a href="#education" class="nav-link">Education</a>
+            </li>
+            <li class="nav-item">
+              <a href="#courses" class="nav-link">Courses</a>
+            </li>
+            <li class="nav-item">
+              <a href="#code" class="nav-link">Code Example</a>
+            </li>
+            <li class="nav-item">
+              <a href="#languages" class="nav-link">Languages</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="main">
+        <div class="left-column">
+            <img 
+              src="assets/img/IMG_3873.png"
+              alt="avatar"
+            />
+          <section class="contact">
+            <h2 class="section-title" id="contact">Contact</h2>
+            <ul class="contact-list">
+              <li class="contact-item">Email: maybemeryep@gmail.com</li>
+              <li class="contact-item"><a href="https://github.com/zerovessel">GitHub</a></li>
+              <li class="contact-item"><a href="https://t.me/merandagony">Telegram</a></li>
+            </ul>
+          </section>
+          <section class="courses" id="courses">
+            <h4 class="fw-bolder text-lg-start">Courses</h4>
+            <ul class="text-lg-start">
+              <li>Java-developer on practicum.yandex.ru (in progress)</li>
+              <li>HTML Academy</li>
+              <li>RS Schools Course</li>
+            </ul>
+          </section>
+        </div>
+        <div class="right-column">
+          <section class="name">
+            <h1 class="main">Vyacheslav Petrov</h1>
+          </section>
+          <section class="summary">
+            <h2 class="section-title" id="summary">About me</h2>
+            I'm a freelancer, mainly doing copywriting. I have experience in web design and server development. My strengths are meticulousness and communication skills. 
+            </section>
+            <section class="strengths">
+            <h4 class="fw-bolder text-lg-start">My strengths</h4>
+            <ul class="text-lg-start">
+              <li>Meticulousness</li>
+              <li>Communication</li>
+              <li>Human</li>
+              <li>Good sense of humour</li>
+            </ul>
+          </section>
+          <section class="skills" id="skills">
+            <h4 class="fw-bolder text-lg-start">Skills</h4>
+              <li>HTML</li>
+              <li>CSS/SSAS</li>
+              <li>Adobe Photoshop, Illustartor</li>
+            </ul>
+          </section>
+          <section class="code" id="code">
+            <h4 class="fw-bolder text-lg-end">Code Example</h4>
+            <pre class="text-lg-start">
+              <code>
+                function multiply(a, b){
+                  return a * b
+                }
+                </code>
+            </pre>
+          </section>
+          <section class="languages" id="languages">
+            <h4 class="fw-bolder text-lg-start">Languages</h4>
+              <li>Russian</li>
+              <li>English</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+         <a class="footer-link" href="https://github.com/zerovessel">
+          <img src="assets/img/github-logo.png" width="45" height="40" alt="github">
+         </a>
+         <p class="footer_year">2024</p>
+         <a class="footer-link" href="https://rs.school/courses/javascript-ru">
+         <img src="assets/img/rs-school-logo.png" width="86" height="32" alt="logo">
+        </a>
+    </footer>
+  </body>
 </html>
