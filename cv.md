@@ -1,0 +1,24 @@
+# Vyacheslav Petrov
+# Contacts: 
+* **E-mail:** maybemeryep@gmail.com
+* **Github:** zerovessel
+* **Telegram:** @merandagony
+# About Me:
+I'm a freelancer, mainly doing copywriting. I have experience in web design and server development. My strengths are meticulousness and communication skills. 
+# Skills:
+* HTML
+* CSS/SASS
+* Adove Photoshop, Illustrator
+# Code Example:
+```
+function multiply(a, b){
+  return a * b
+}
+```
+# Courses:
+* Java-developer on practicum.yandex.ru (in progress)
+* HTMl Academy (Completed)
+* RS Schools Course (in progress)
+# Languages: 
+* Russian (Native)
+* English (Upper-Intermediate)
